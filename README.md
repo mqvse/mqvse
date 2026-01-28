@@ -47,6 +47,11 @@ A high-fidelity mobile e-commerce experience featuring gesture navigation, cinem
 A gamified focus timer that combines productivity with cozy pixel-art fishing.
 *Built with: React, Zustand, Canvas API*
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mqvse&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqvse&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 📌 Projects are pinned below  
